@@ -27,13 +27,15 @@
 
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <h3>{{ site.number }}</h3>
+
         </header>
         <section id="main_content">
           {{ content }}
         </section>
 
         <footer>
-            {{ site.title }} | <a href="mailto:{{ site.email }}">{{ site.email }}</a> | <a href="{{ site.twitter }}">Twitter</a><br>
+            {{ site.title }} | <a href="mailto:{{ site.email }}">{{ site.email }}</a> | <a href="{{ site.twitter }}">Twitter</a> | <a href="{{ site.linkedin }}">LinkedIn</a>   <br>
         {% if site.github.is_project_page %}
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
         {% endif %}
