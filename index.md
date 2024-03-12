@@ -2,7 +2,7 @@
 layout: default
 description: Resume
 ---
-Worked in software development for over eight years, ranging from Automating testing software to designing and developing enterprise solutions.
+Worked in software development for over ten years, ranging from Automating testing software to designing and developing enterprise solutions.
 
 Agile at heart and dedicated to learning the best industry practices, willing to give back to the development community.
 
