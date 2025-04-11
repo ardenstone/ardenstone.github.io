@@ -2,7 +2,7 @@
 layout: default
 description: Resume
 ---
-Worked in software development for over ten years, ranging from Automating testing software to designing and developing enterprise solutions.
+Worked in software development for over eleven years, ranging from Automating testing software to designing and developing enterprise solutions.
 
 Agile at heart and dedicated to learning the best industry practices, willing to give back to the development community.
 
@@ -18,10 +18,11 @@ Circle CI, Fastlane, S3, AWS, Lambda, CodePush
 ## Work Experience
 
 ### APS Payroll
-#### Software Engineer II Jan 2018 - Present
+#### Software Engineer III Jan 2018 - Present
 Part of a development team that delivers updates and features an React Native iOS/Android application that allows mobile payroll functions.
 * Work with Scala API backend using Akka.
 * Maintain Circle CI / Deployment Pipelines.
+* Resposible for Production Deployments of Mobile App
 * Mentor new and less experienced developers.
 * Inital Development on .netCore API powered reporting service
 
