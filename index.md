@@ -2,9 +2,6 @@
 layout: default
 description: Resume
 ---
-
-# Arden Stone
-
 Experienced software engineering leader with 11+ years of experience building and scaling enterprise applications, backend systems, and mobile platforms. Proven track record leading development initiatives, mentoring junior engineers, and driving reliable deployment processes across distributed teams. Strong background in React Native, React, TypeScript, backend architecture, CI/CD automation, and Agile delivery. Passionate about engineering excellence, operational reliability, and growing high-performing teams.
 
 ## Skills
@@ -102,7 +99,7 @@ Responsible for producing and formatting news for NBC 6 News Today.
 
 ### Red River .NET User Group
 #### Organizer
-May 2018 - Present
+May 2018 - 2020
 
 Red River .NET User Group serves developers in and around the Shreveport-Bossier area.
 
