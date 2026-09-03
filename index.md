@@ -97,9 +97,9 @@ Managed newsroom production operations, coordinated broadcast delivery, and supe
 
 ---
 
-# Community Leadership
+## Community Leadership
 
-## Red River .NET User Group — Organizer
+### Red River .NET User Group — Organizer
 2018 - 2020
 
 - Organized developer meetups and technical presentations for the Shreveport-Bossier software engineering community.
@@ -108,8 +108,12 @@ Managed newsroom production operations, coordinated broadcast delivery, and supe
 
 ---
 
-# Education
+## Education
 
-LSU at Shreveport — Bachelor’s Degree, Electronic Media Journalism  
-Panola College — Associate’s Degree, General Studies
-7
+### LSU at Shreveport
+#### 2009 - 2011
+Bachelor’s Degree, Electronic Media Journalism  
+
+### Panola College
+#### 2007 - 2009
+Associate’s Degree, General Studies
