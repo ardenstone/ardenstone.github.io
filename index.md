@@ -26,7 +26,7 @@ CI/CD Pipelines, CircleCI, Fastlane, AWS, S3, Lambda, OpenLens, Kubernetes, Mobi
 
 ## Deel
 ### Senior Backend Engineer
-Sep 2025 - Present
+Sep 2025 - August 2026
 
 Lead backend engineering initiatives supporting production-critical global HR and payroll systems within a distributed engineering organization of 7,000+ employees and 1,000+ software engineers.
 
@@ -43,7 +43,7 @@ Lead backend engineering initiatives supporting production-critical global HR an
 
 ## APS Payroll
 ### Software Engineer III / Lead Mobile Developer
-Jan 2018 - Sep 2025
+Jan 2019 - Sep 2025
 
 Served as technical lead for the company’s mobile engineering platform supporting 50,000+ users across iOS and Android payroll applications.
 
@@ -112,3 +112,4 @@ Managed newsroom production operations, coordinated broadcast delivery, and supe
 
 LSU at Shreveport — Bachelor’s Degree, Electronic Media Journalism  
 Panola College — Associate’s Degree, General Studies
+7
